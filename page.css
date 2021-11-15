@@ -94,7 +94,14 @@ body {
 }
 
 .projects {
-  padding-top: 300px;
+  padding-top: 230px;
+  padding-bottom: 300px;
+}
+
+.p_projeto {
+  color: var(--primary);
+  font-size: 30px;
+  padding-bottom: 50px;
 }
 
 @media (min-width: 768px) {
