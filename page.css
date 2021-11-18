@@ -15,9 +15,9 @@ body {
 }
 
 .icons {
-  width: 10rem;
+  width: 7rem;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-around;
 }
 
 .navbar {
@@ -94,8 +94,8 @@ body {
 }
 
 .projects {
-  padding-top: 230px;
-  padding-bottom: 300px;
+  padding-top: 150px;
+  padding-bottom: 200px;
 }
 
 .p_projeto {
@@ -116,4 +116,10 @@ body {
 
 .contact {
   padding-bottom: 300px;
+}
+
+.p_contato {
+  color: var(--primary);
+  font-size: 30px;
+  padding-bottom: 50px;
 }
